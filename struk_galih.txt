@@ -1,0 +1,5 @@
+Nama        : galih
+Barang      : Tas Ransel
+Harga       : 150000
+Jumlah      : 3
+Total Bayar : 450000
