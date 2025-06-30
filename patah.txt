@@ -1,6 +1,0 @@
-Nama: galih
-NPM: 50424479
-Nilai: 50
-Grade: D
-Keterangan: Anda Harus Mengulang
-
